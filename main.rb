@@ -38,7 +38,7 @@ loop {
     else
       puts "ショ!"
     end
-    puts your_choice[:hand]
+    
     puts "---------------------"
     puts "あなた:#{hand_type[your_choice[:hand]]}を出しました"
     
